@@ -21,4 +21,5 @@ Driven by this experience, I have a strong passion for building practical, real-
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Icxxz)](https://github.com/stats-organization/github-stats-extended)
+[![Icxxz's GitHub stats](https://github-stats-extended.vercel.app/api?username=Icxxz)](https://github.com/stats-organization/github-stats-extended)
+[![Icxxz most used programming languages chart](https://github-stats-extended.vercel.app/api/top-langs/?username=Icxxz&layout=compact)](https://github.com/stats-organization/github-stats-extended)
