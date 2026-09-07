@@ -2,9 +2,7 @@
 
 I am a **Computer Engineering student** at the Federal University of Ceará (UFC) — Quixadá Campus.
 
-Currently, I am a monitor and scholar for the Education for Work in Health Program (**PET-Saúde: Digital Health and Information - GAT9**). In this role, I actively provide IT support and work on systems developed to assist the Municipal Health Department of Fortaleza, Ceará, and local healthcare professionals.
-
-Driven by this experience, I have a strong passion for building practical, real-world solutions that bridge the gap between hardware and software. My studies and projects are heavily directed toward **Embedded Systems, Automation, and the Internet of Things (IoT)**, with a deep focus on microcontrollers, low-level programming, and real-time operations.
+I have a strong passion for building practical, real-world solutions that bridge the gap between hardware and software. My studies and projects are heavily directed toward **Embedded Systems, Automation, and the Internet of Things (IoT)**, with a deep focus on microcontrollers, low-level programming, and real-time operations.
 
 ---
 
