@@ -21,7 +21,4 @@ Driven by this experience, I have a strong passion for building practical, real-
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icxxz&theme=default&show_icons=true&locale=en" alt="Icxxz GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icxxz&layout=compact&theme=default" alt="Icxxz Top Languages" height="150" />
-</div>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Icxxz)](https://github.com/stats-organization/github-stats-extended)
